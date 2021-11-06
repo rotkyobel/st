@@ -9,7 +9,7 @@ Xft.lcdfilter:	lcddefault
 !-- remove this if your DPI is ok -- !
 Xft.dpi:   135
 
-st.font:         Iosevka:pixelsize=17:antialias=true:autohint=true;
+st.font:         Sarasa Term K:pixelsize=18:antialias=true:autohint=true;
 
 !-- use values like 0.60 to get proper transparency -- !
 st.alpha: 1.0
